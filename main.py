@@ -1,3 +1,5 @@
+"""Generates the Alien Earth entry line and writes it to the output directory.
+The emitted entry bytes must remain identical to the established output."""
 import os
 
 TEXT = (
